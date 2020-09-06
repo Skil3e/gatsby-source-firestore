@@ -1,0 +1,26 @@
+{
+  "name": "@Skil3e/gatsby-source-firestore",
+  "version": "1.0.0",
+  "description": "Gatsby source plugin for Firestore",
+  "main": "index.js",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "firebase",
+    "firestore",
+    "subcollections"
+  ],
+  "files": [
+    "gatsby-node.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skil3e ",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^7.19.1"
+  }
+}
