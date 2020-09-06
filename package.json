@@ -18,9 +18,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Skil3e ",
+  "author": "Skil3e",
   "license": "MIT",
   "dependencies": {
     "firebase": "^7.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skil3e/gatsby-source-firestore.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
