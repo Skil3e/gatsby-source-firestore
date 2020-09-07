@@ -55,9 +55,11 @@ module.exports = {
     }
   }
 }
+```
 
 ## Acknowledgement
 
 - [ryanflorence/gatsby-source-firebase](https://github.com/ryanflorence/gatsby-source-firebase)
+
 - [taessina/gatsby-source-firestore](https://github.com/taessina/gatsby-source-firestore)
 
